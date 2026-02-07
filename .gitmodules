@@ -1,0 +1,3 @@
+[submodule "react-flow"]
+	path = react-flow
+	url = https://github.com/cutiefunny/react-flow.git
